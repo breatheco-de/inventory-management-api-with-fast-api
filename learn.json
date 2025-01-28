@@ -6,6 +6,7 @@
 	"slug": "basic-inventory-api-fastapi",
 	"status": "published",
 	"duration": 4,
+	"preview": "https://storage.googleapis.com/media-breathecode/2cd52d6de9fdbdc317962ce175b039f04e8fcc3800a7fbfc1c5f4f503155a3ac",
 	"template_url": "https://github.com/4GeeksAcademy/fastapi-rest-hello",
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
