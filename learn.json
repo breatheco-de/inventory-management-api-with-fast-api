@@ -1,0 +1,19 @@
+{
+	"title": {
+	  "us": "Develop a Basic Inventory API with FastAPI",
+	  "es": "Desarrolla una API de Inventario Básico con FastAPI"
+	},
+	"slug": "basic-inventory-api-fastapi",
+	"status": "published",
+	"duration": 4,
+	"template_url": "https://github.com/4GeeksAcademy/fastapi-rest-hello",
+	"translations": ["es", "us"],
+	"difficulty": "beginner",
+	"technologies": ["python", "fastapi", "rest-api"],
+	"description": {
+	  "us": "Learn to build a Basic Inventory API using FastAPI! Manage items with CRUD operations and expand with filters, search, and persistence. Perfect for beginners exploring APIs.",
+	  "es": "Aprende a construir una API de Inventario Básico con FastAPI. Administra artículos con operaciones CRUD y amplía con filtros, búsqueda y persistencia. Ideal para principiantes explorando APIs."
+	},
+	"autoPlay": false,
+	"projectType": "project"
+}
