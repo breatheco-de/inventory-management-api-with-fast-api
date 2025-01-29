@@ -16,5 +16,6 @@
 	  "es": "Aprende a construir una API de Inventario Básico con FastAPI. Administra artículos con operaciones CRUD y amplía con filtros, búsqueda y persistencia. Ideal para principiantes explorando APIs."
 	},
 	"autoPlay": false,
-	"projectType": "project"
+	"projectType": "project",
+	"template_url": "https://github.com/4GeeksAcademy/fastapi-hello"
 }
